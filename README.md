@@ -173,10 +173,8 @@ All contributions are welcome! If you want to improve the project:
 **Hoang Van Long** -  Developer
 
 [![Email](https://img.shields.io/badge/Email-hvlongg@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvlongg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hvlonggg-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hvlo nggg/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hvlonggg-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hvlonggg/)
 [![GitHub](https://img.shields.io/badge/GitHub-HvLonggg-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HvLonggg)
-
 [![Facebook](https://img.shields.io/badge/Facebook-hvlonggg-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hvlonggg)
 
 📱 **Phone:** 0364 892 903

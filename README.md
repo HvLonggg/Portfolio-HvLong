@@ -2,9 +2,8 @@
 
 <div align="center">
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-2025-8b5cf6?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-t he-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -13,7 +12,7 @@
 [🌐 Demo Link](https://hvlonggg.github.io/Portfolio-HvLong/) | [📧 Contact](mailto:hvlongg@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/hvlonggg/)
 
 </div>
-## 🎯 Introduction
+ 🎯 Introduction
 
 This personal portfolio website is designed in a modern, minimalist, and professional style. The website introduces myself, my completed projects, skills, educational journey, and notable activities.
 
